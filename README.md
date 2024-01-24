@@ -10,4 +10,6 @@
 <p>In this context, <i>'a'</i> serves as a coefficient, and <i>p(x)</i> represents a polynomial. Our focus lies on the fundamental attributes of polynomials, primarily the <em><strong>Polynomial Degree</strong> and the <strong>Constant term.</strong><em> At this juncture, we are working with straightforward equations, devoid of complexity.</p><br>
   
 ### Example:
-<img src="./img/img2.png" width=50% height=50%>
+<img src="./img/img2.png" width=50% height=50%><br>
+<p>a = 2 ,  DEGREE = 2 ,  CONSTANT = 3 ,  COEF1 = -2 ,  COEF2 = 10 ,  x0 = 0 ,  y0 = 2</p>
+<hr>
